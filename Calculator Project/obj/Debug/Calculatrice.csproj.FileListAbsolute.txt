@@ -1,0 +1,12 @@
+C:\Programation Level 2\Calculatrice\bin\Debug\Calculatrice.exe.config
+C:\Programation Level 2\Calculatrice\bin\Debug\Calculatrice.exe
+C:\Programation Level 2\Calculatrice\bin\Debug\Calculatrice.pdb
+C:\Programation Level 2\Calculatrice\obj\Debug\Calculatrice.csproj.AssemblyReference.cache
+C:\Programation Level 2\Calculatrice\obj\Debug\Calculatrice.Form1.resources
+C:\Programation Level 2\Calculatrice\obj\Debug\Calculatrice.Properties.Resources.resources
+C:\Programation Level 2\Calculatrice\obj\Debug\Calculatrice.csproj.GenerateResource.cache
+C:\Programation Level 2\Calculatrice\obj\Debug\Calculatrice.csproj.CoreCompileInputs.cache
+C:\Programation Level 2\Calculatrice\obj\Debug\Calculatrice.exe
+C:\Programation Level 2\Calculatrice\obj\Debug\Calculatrice.pdb
+C:\Programation Level 2\Calculatrice\bin\Debug\NCalc.dll
+C:\Programation Level 2\Calculatrice\obj\Debug\Calculatrice.csproj.CopyComplete
