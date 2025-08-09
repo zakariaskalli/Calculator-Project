@@ -1,7 +1,7 @@
 cat << 'EOF' > README.md
 # Scientific Calculator - C# .NET Windows Forms App
 
-![Calculator Preview](calculator-screenshot.png)  
+![Calculator Preview](calculator-screenshot.png.png)  
 *A fully featured scientific calculator with 15+ operations*
 
 ---
